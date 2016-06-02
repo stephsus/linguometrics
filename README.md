@@ -1,0 +1,2 @@
+# linguometrics
+Scientometrics of Linguistics
